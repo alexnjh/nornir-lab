@@ -1,0 +1,20 @@
+---
+nxos_a:
+  hostname: "10.10.10.27"
+  port: 22
+  platform: "cisco_nxos"
+
+nxos_b:
+  hostname: "10.10.10.28"
+  port: 22
+  platform: "cisco_nxos"
+
+nxos_c:
+  hostname: "10.10.10.29"
+  port: 22
+  platform: "cisco_nxos"
+
+nxos_d:
+  hostname: "10.10.10.30"
+  port: 22
+  platform: "cisco_nxos"
